@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi Everyone <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 40px height='20px'>
 
-<!--
-**musisipi/musisipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**M.NurFakhri 15 y.o**
+> **Wait!! nothing here, beacuse i not have laptop 💻. I'll be back when I have a laptop**
+ 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wQF2r0k/2094ad4bfa228fd2b7d0a656e30dd2cb.gif" alt="2094ad4bfa228fd2b7d0a656e30dd2cb" border="0"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+****learn  :**** <br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+****I'm also active in :****<br>
+![@nurfakhri.id](https://img.shields.io/badge/@nurfakhri.id-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/NurFakhri-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
+```py
+hello = "I don't like Python"
+print(hello[0 + 8:19])
+```
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Lukarisima&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukarisima&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukarisima&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
