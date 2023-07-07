@@ -18,7 +18,7 @@
   </a>
 
 ```py
-hello = "I don't like Python"
+hello = "I don't like coding"
 print(hello[0 + 8:19])
 ```
 
