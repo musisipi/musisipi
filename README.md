@@ -2,7 +2,7 @@
 
 
 **M.NurFakhri 15 y.o**
-> **Musisipi Wuz Here ya!!** 
+> ====================================
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/wQF2r0k/2094ad4bfa228fd2b7d0a656e30dd2cb.gif" alt="2094ad4bfa228fd2b7d0a656e30dd2cb" border="0"></a>
 
 ****learn  :**** <br>
