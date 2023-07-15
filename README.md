@@ -1,7 +1,8 @@
 ## Hi Everyone <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 40px height='20px'>
 
 
-**M.NurFakhri 15 y.o**
+**M.NurFakhri 15 y.o**<br>
+![](https://komarev.com/ghpvc/?username=musisipi&color=red)
 >  ‎ 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/wQF2r0k/2094ad4bfa228fd2b7d0a656e30dd2cb.gif" alt="2094ad4bfa228fd2b7d0a656e30dd2cb" border="0"></a>
 
