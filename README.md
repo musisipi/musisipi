@@ -7,9 +7,8 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/wQF2r0k/2094ad4bfa228fd2b7d0a656e30dd2cb.gif" alt="2094ad4bfa228fd2b7d0a656e30dd2cb" border="0"></a>
 
 ****learn  :**** <br>
-![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![java](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ****I'm also active in :****<br>
   <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/nurfakhri.id">
