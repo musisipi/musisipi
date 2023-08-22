@@ -4,6 +4,7 @@
 **M.NurFakhri 16 y.o**<br>
 ![](https://komarev.com/ghpvc/?username=musisipi&color=red)
 ![](https://img.shields.io/github/followers/musisipi.svg?style=social&label=Follow&maxAge=2592000)
+![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 >  ‎ 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/wQF2r0k/2094ad4bfa228fd2b7d0a656e30dd2cb.gif" alt="2094ad4bfa228fd2b7d0a656e30dd2cb" border="0"></a>
 
@@ -22,3 +23,6 @@
 hello = "I don't like coding"
 print(hello[0 + 8:19])
 ```
+
+![](https://github-readme-stats.vercel.app/api?username=musisipi&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=musisipi&theme=blue-green)
