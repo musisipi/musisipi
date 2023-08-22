@@ -3,7 +3,7 @@
 
 **M.NurFakhri 16 y.o**<br>
 ![](https://komarev.com/ghpvc/?username=musisipi&color=red)
-![](https://img.shields.io/github/followers/{musisipi}.svg?style=social&label=Follow&maxAge=2592000)
+![](https://img.shields.io/github/followers/musisipi.svg?style=social&label=Follow&maxAge=2592000)
 >  ‎ 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/wQF2r0k/2094ad4bfa228fd2b7d0a656e30dd2cb.gif" alt="2094ad4bfa228fd2b7d0a656e30dd2cb" border="0"></a>
 
