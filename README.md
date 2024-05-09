@@ -8,11 +8,10 @@
 >  ‎ 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/wQF2r0k/2094ad4bfa228fd2b7d0a656e30dd2cb.gif" alt="2094ad4bfa228fd2b7d0a656e30dd2cb" border="0"></a>
 
-****learn  :**** <br>
-![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
-****I'm also active in :****<br>
+
+<br>
   <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/nurfakhri.id">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>   <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/profile.php?id=100093215135754&mibextid=ZbWKwL">
@@ -24,5 +23,5 @@ hello = "I don't like coding"
 print(hello[0 + 8:19])
 ```
 
-![](https://github-readme-stats.vercel.app/api?username=musisipi&theme=blue-green)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=musisipi&theme=blue-green)
