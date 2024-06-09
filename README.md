@@ -1,4 +1,9 @@
-## Hi Everyone <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 40px height='20px'>
+
+<h1 align="center">Hi 👋, I'm Muhammad Nur Fakhri</h1>
+<h3 align="center">Student in SMK N 1 BANTUL</h3>
+
+
+</p>
 
 
 **M.NurFakhri 16 y.o**<br>
@@ -19,9 +24,7 @@
   </a>
 
 ```py
-hello = "I don't like coding"
-print(hello[0 + 8:19])
+Fortis Fortuna Adiuvat
 ```
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=musisipi&theme=blue-green)
