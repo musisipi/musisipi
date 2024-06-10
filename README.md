@@ -27,9 +27,6 @@
 
   <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/nurfakhri.id">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>   <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/profile.php?id=100093215135754&mibextid=ZbWKwL">
-    <img alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
 
 ```py
 Fortis Fortuna Adiuvat
