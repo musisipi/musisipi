@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nur Fakhri</h1>
-<h3 align="center">Student in SMK N 1 BANTUL</h3>
+<h3 align="center">Student at SMK N 1 BANTUL</h3>
 
 <br>
 
