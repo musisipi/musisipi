@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nur Fakhri</h1>
 <h3 align="center">Student at SMK N 1 BANTUL</h3>
-
+<hr>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=musisipi&color=red)
